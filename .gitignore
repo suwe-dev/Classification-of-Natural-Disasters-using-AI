@@ -1,3 +1,4 @@
 venv/
 dataset/
 disaster.h5
+.git
